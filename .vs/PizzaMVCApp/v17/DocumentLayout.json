@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasan\\source\\repos\\PizzaMVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DF6034-6455-47C9-9899-E565D967CE92}|PizzaMVCApp\\PizzaMVCApp.csproj|c:\\users\\sasan\\source\\repos\\pizzamvcapp\\pizzamvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6DF6034-6455-47C9-9899-E565D967CE92}|PizzaMVCApp\\PizzaMVCApp.csproj|solutionrelative:pizzamvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DF6034-6455-47C9-9899-E565D967CE92}|PizzaMVCApp\\PizzaMVCApp.csproj|c:\\users\\sasan\\source\\repos\\pizzamvcapp\\pizzamvcapp\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DF6034-6455-47C9-9899-E565D967CE92}|PizzaMVCApp\\PizzaMVCApp.csproj|solutionrelative:pizzamvcapp\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DF6034-6455-47C9-9899-E565D967CE92}|PizzaMVCApp\\PizzaMVCApp.csproj|c:\\users\\sasan\\source\\repos\\pizzamvcapp\\pizzamvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6DF6034-6455-47C9-9899-E565D967CE92}|PizzaMVCApp\\PizzaMVCApp.csproj|solutionrelative:pizzamvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DF6034-6455-47C9-9899-E565D967CE92}|PizzaMVCApp\\PizzaMVCApp.csproj|c:\\users\\sasan\\source\\repos\\pizzamvcapp\\pizzamvcapp\\models\\dogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DF6034-6455-47C9-9899-E565D967CE92}|PizzaMVCApp\\PizzaMVCApp.csproj|solutionrelative:pizzamvcapp\\models\\dogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DF6034-6455-47C9-9899-E565D967CE92}|PizzaMVCApp\\PizzaMVCApp.csproj|c:\\users\\sasan\\source\\repos\\pizzamvcapp\\pizzamvcapp\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6DF6034-6455-47C9-9899-E565D967CE92}|PizzaMVCApp\\PizzaMVCApp.csproj|solutionrelative:pizzamvcapp\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\PizzaMVCApp\\PizzaMVCApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PizzaMVCApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\PizzaMVCApp\\PizzaMVCApp\\appsettings.json",
+              "RelativeToolTip": "PizzaMVCApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T03:41:35.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\PizzaMVCApp\\PizzaMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PizzaMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\PizzaMVCApp\\PizzaMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PizzaMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwA4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T12:38:40.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\PizzaMVCApp\\PizzaMVCApp\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "PizzaMVCApp\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\PizzaMVCApp\\PizzaMVCApp\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "PizzaMVCApp\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T12:30:04.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\PizzaMVCApp\\PizzaMVCApp\\Models\\DogViewModel.cs",
+              "RelativeDocumentMoniker": "PizzaMVCApp\\Models\\DogViewModel.cs",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\PizzaMVCApp\\PizzaMVCApp\\Models\\DogViewModel.cs",
+              "RelativeToolTip": "PizzaMVCApp\\Models\\DogViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:26:36.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\PizzaMVCApp\\PizzaMVCApp\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "PizzaMVCApp\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\PizzaMVCApp\\PizzaMVCApp\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "PizzaMVCApp\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:13:10.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
